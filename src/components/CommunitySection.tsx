@@ -6,11 +6,7 @@ import { MessageCircle, Users, Twitter, Send } from "lucide-react";
 const CommunitySection = () => {
 	const communityStats = [
 		{
-			icon: Users,
-			count: "2.4M+",
-			label: "Community Members",
-			color: "text-blue-500",
-		},
+		
 		{
 			icon: MessageCircle,
 			count: "500K+",
